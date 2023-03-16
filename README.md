@@ -27,6 +27,7 @@ To run this code you need:
 -> Compile and Migrate the contracts on your local machine
 
 ``` truffle compile ```
+
 ``` truffle migrate ```
 
 -> Run the tests
