@@ -1,6 +1,6 @@
 ## SolidityDEX from Ethereum 201 moralis academy course
 
-In this repository you can find:
+#### In this repository you can find:
 
 
 -> A simple mock token contract (ERC20) used to interact with the DEX
@@ -12,7 +12,9 @@ In this repository you can find:
 -> The javascript tests, assuring that the contracts are working as they should.
 
 
-To run this code you need:
+
+#### To run this code you need:
+
 
 -> Clone this repository
 
