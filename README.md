@@ -1,4 +1,4 @@
-## SolidityDEX from Ethereum 201 moralis academy course
+## Solidity Orderbook Decentralized Exchange
 
 #### In this repository you can find:
 
